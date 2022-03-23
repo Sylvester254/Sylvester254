@@ -1,7 +1,7 @@
 ### Hi there 👋
-I haven't done quite alot here yet :grin: 
-I'll be working with shell,C,HTML,CSS,Python and Js
-I'm currently learning Full Stack Software Engineering through:
+I haven't done quite alot here yet :grin: /n
+I'll be working with shell,C,HTML,CSS,Python and Js /n
+I'm currently learning Full Stack Software Engineering through: /n
 ALX scholarship program ⚡ https://www.alxafrica.com/ ⚡ 
 
 <!--
