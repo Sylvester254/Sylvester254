@@ -1,4 +1,8 @@
 ### Hi there 👋
+I haven't done quite alot here yet :grin: 
+I'll be working with shell,C,HTML,CSS,Python and Js
+I'm currently learning Full Stack Software Engineering through:
+ALX scholarship program ⚡ https://www.alxafrica.com/ ⚡ 
 
 <!--
 **Sylvester254/Sylvester254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
