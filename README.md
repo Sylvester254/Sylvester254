@@ -1,6 +1,5 @@
 ### Hi there 👋
-- I haven't done quite alot here yet :grin: 
-- Working with shell,C,C++,HTML,CSS,Python and Js for now :relieved:
+- Working with shell,C,C++,HTML,CSS,Js and Python for now 😁
 - I'm currently learning Full Stack Software Engineering through: 
 - ALX-Holberton curriculum scholarship program ⚡ https://www.alxafrica.com/ ⚡ 
 
