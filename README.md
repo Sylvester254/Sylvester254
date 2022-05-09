@@ -1,7 +1,8 @@
 ## Hi there 👋
-- will be working with shell,C,C++,HTML,CSS,Js and Java for now 😁
+- will be working with shell,C,C++,HTML,CSS,Js and Java 
+- Open for any awesome collaborations😁
 - I'm currently learning Full Stack Software Engineering through: 
-- ALX-Holberton curriculum scholarship program ⚡ https://www.alxafrica.com/ ⚡ 
+- [ALX-Holberton curriculum scholarship program](https://www.alxafrica.com/) 
 ## 🧰 My Languages and Tools:
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="C" height="40" style="vertical-align:top; margin:4px">
@@ -17,7 +18,7 @@
 ## ✨My GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sylvester254&show_icons=true&theme=nightowl)
 ###
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sylvester254&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sylvester254&theme=nightowl)
 
 
 
