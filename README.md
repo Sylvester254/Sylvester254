@@ -5,7 +5,7 @@
 </a>
 
 
-- will be working with shell,C,C++,HTML,CSS,Js and Java 
+- will be working with shell,C,C++,HTML,CSS,Python,Js and Java 
 - Open for any awesome collaborations😁
 - I'm currently learning Full Stack Software Engineering through: 
 - [ALX-Holberton curriculum scholarship program](https://www.alxafrica.com/) 
