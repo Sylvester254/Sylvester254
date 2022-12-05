@@ -45,6 +45,9 @@
 ###
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sylvester254&layout=compact&langs_count=10&theme=nightowl&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=Sylvester254&&style=flat-square" align="right" />
+</div>
 
 
 
