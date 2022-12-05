@@ -5,10 +5,22 @@
 </a>
 
 
-- will be working with shell,C,C++,HTML,CSS,Python,Js and Java 
+- Working with Shell scrips,C,C++,HTML,CSS,Python,Js and Java. Just depends on the problem i'm handling.
 - Open for any awesome collaborations😁
 - I'm currently learning Full Stack Software Engineering through: 
 - [ALX-Holberton curriculum scholarship program](https://www.alxafrica.com/) 
+
+<div align="center">
+  <a href="https://github.com/Sylvester254" target="_blank">
+    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  </a>
+  <a href="linkedin.com/in/sylvester-kiranga-68a28220b" target="_blank">
+    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://medium.com/@slynganga59" target="_blank">
+    <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+  </a>  
+</div>
 
 
 ## My Languages and Tools :hammer_and_wrench:
@@ -16,6 +28,7 @@
 <img src="https://toppng.com/uploads/preview/c-programming-icon-c-programming-language-logo-11562945679duaxtn3yq0.png" alt="C" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="C++" height="40" style="vertical-align:top; margin:4px">
 <img src="https://icon-library.com/images/java-icon/java-icon-1.jpg" alt="Java" height="40" style="vertical-align:top; margin:4px">
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="40" />
 <img src="https://e7.pngegg.com/pngimages/780/695/png-clipart-javascript-comment-html-logo-international-conference-on-missions-node-js-icon-angle-text-thumbnail.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
@@ -23,6 +36,8 @@
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" height="40" style="vertical-align:top; margin:4px"> 
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" height="40" style="vertical-align:top; margin:4px"> 
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" alt="Terminal" height="40" style="vertical-align:top; margin:4px"> 
+<img src="https://cdn-icons-png.flaticon.com/512/5969/5969184.png" alt="Raspberry Pi" height="40" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/720px-Arduino_Logo.svg.png?20200922062315" alt="Raspberry Pi" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 ## My GitHub Stats✨
