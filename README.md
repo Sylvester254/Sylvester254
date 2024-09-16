@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-<a href="myoctocat">
-  <img align="right" src="https://myoctocat.com/assets/images/base-octocat.svg" width=200 />
-</a>
-
 - I'm open for any awesome collaborations😁
 
 ## My Languages and Tools :hammer_and_wrench:
@@ -30,13 +26,19 @@
 </p>
 
 ## My GitHub Stats✨
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sylvester254&show_icons=true&theme=nightowl&count_private=true&hide_border=true)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sylvester254&layout=compact&langs_count=10&theme=nightowl&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--
+<a href="myoctocat">
+  <img align="right" src="https://myoctocat.com/assets/images/base-octocat.svg" width=200 />
+</a>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sylvester254&show_icons=true&theme=nightowl&count_private=true&hide_border=true)
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=Sylvester254&&style=flat-square" align="right" />
 </div>
-
+-->
 
 
 
