@@ -1,33 +1,70 @@
-## Hi there 👋
+# Hi, I'm Sylvester 👋
 
-- I'm open for any awesome collaborations😁
+**Software Engineer | Python Backend Engineer | API Developer | Automation & AI Systems Builder**
 
-## My Languages and Tools :hammer_and_wrench:
-<p align="center">
-  <ul>
-<li><img src="https://toppng.com/uploads/preview/c-programming-icon-c-programming-language-logo-11562945679duaxtn3yq0.png" alt="C" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="C++" height="40" style="vertical-align:top; margin:4px">
-<img src="https://icon-library.com/images/java-icon/java-icon-1.jpg" alt="Java" height="40" style="vertical-align:top; margin:4px">
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="40" />
-<img src="https://img.icons8.com/ios/500/flask.png" alt="Flask" height="40" style="vertical-align:top; margin:4px">
-<img src="https://e7.pngegg.com/pngimages/780/695/png-clipart-javascript-comment-html-logo-international-conference-on-missions-node-js-icon-angle-text-thumbnail.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="CSS" height="40" style="vertical-align:top; margin:4px"> </br>
- </li>
- <li><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" height="40" style="vertical-align:top; margin:4px"> 
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" height="40" style="vertical-align:top; margin:4px">
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" alt="SQL" height="40" style="vertical-align:top; margin:4px">
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" alt="Git" height="40" style="vertical-align:top; margin:4px"> 
-<img src="https://cdn-icons-png.flaticon.com/512/5969/5969184.png" alt="Raspberry Pi" height="40" style="vertical-align:top; margin:4px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/720px-Arduino_Logo.svg.png?20200922062315" alt="Raspberry Pi" height="40" style="vertical-align:top; margin:4px">
-</li>
-</ul>
-</p>
+I build backend systems, APIs, automation workflows, and data-driven applications using **Python** and related technologies. My work is centered around designing and shipping practical solutions for **web applications, integrations, data processing, AI-assisted workflows, and scalable backend services**.
 
-## My GitHub Stats✨
+## What I work on
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sylvester254&layout=compact&langs_count=10&theme=nightowl&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+- Backend development with **Python, Flask, and FastAPI**
+- REST API design, integrations, and microservices
+- Data processing, automation, and scraping pipelines
+- Database design and optimization
+- AI/LLM-powered workflows and applied tooling
+- Full-stack web applications
+- Linux-based deployment and developer tooling
+
+## A bit about me
+
+I’m a freelance software developer with a strong focus on turning ideas into usable systems. I enjoy working across the full lifecycle of a product; from architecture and implementation to debugging, deployment, and improvement.
+
+A lot of my strongest work is in private repositories, so this profile mainly reflects the public side of what I build. My broader experience includes:
+
+- Backend systems for custom web applications
+- API development and third-party integrations
+- Web automation and data extraction workflows
+- Large-scale data handling and processing
+- AI, LLM, and multimodal workflow experimentation
+- Reporting, document generation, and internal tooling
+
+## Tech stack
+
+**Languages**  
+Python, JavaScript, HTML, CSS, SQL
+
+**Backend / Frameworks**  
+Flask, FastAPI, Django
+
+**Frontend**  
+Bootstrap, Tailwind CSS
+
+**Databases / Data**  
+MySQL, PostgreSQL
+
+**Tools / Platforms**  
+Git, Linux, Ubuntu, MacOS, Windows, Terminal, Docker, VS Code, Cursor
+
+## Featured focus areas
+
+- Building reliable Python backend services
+- Designing clean and maintainable APIs
+- Automating repetitive workflows
+- Processing and organizing large datasets
+- Integrating AI capabilities into real applications
+
+## Find me online
+
+- **Portfolio:** [sylvester254.github.io](https://sylvester254.github.io/)
+- **GitHub:** [github.com/Sylvester254](https://github.com/Sylvester254)
+- **LinkedIn:** [View Profile](https://www.linkedin.com/in/sylvester-kiranga-68a28220b)
+
+## Open to
+
+- Remote Software Development work
+- Backend and API projects
+- Automation and data processing projects
+- AI-integrated application development
+- Technical collaborations with clear product value
 
 <!--
 <a href="myoctocat">
